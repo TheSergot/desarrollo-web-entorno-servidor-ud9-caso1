@@ -1,0 +1,40 @@
+.centrado {
+	text-align: center;
+}
+
+#cabecera {
+	width: 100%;
+	padding: 0;
+}
+
+.float_der {
+	float: right;
+	text-align: right;
+}
+
+.float_izq {
+	float: left;
+	text-align: left;
+}
+
+.clear {
+	clear: both;
+}
+
+.caja {
+  position: relative;
+  width: 300px;
+  height: 100px;
+  background-color: grey;
+  color: white;
+  float: left;
+  margin: 2%;
+  border-radius: 25px;
+}
+
+#enlaces {
+	text-align: center;
+	width: 80%;
+	margin: auto;
+}
+
